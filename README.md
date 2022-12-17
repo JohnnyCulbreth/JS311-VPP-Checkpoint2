@@ -1,1 +1,4 @@
 # JS311-VPP-Checkpoint2
+
+#VOLUME PRECEDES PRICE
+
