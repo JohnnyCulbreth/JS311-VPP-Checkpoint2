@@ -17,7 +17,7 @@
     * Columns - watchlist_user_id, watchlist_ticker_id
 
 ### Setting up DB + Connecting to Workbench + Seeding with Data
->> FOR GOOGLE CLOUD
+>> For Google Cloud
 * Take a look at the navigation menu (top-left) on the dashboard. You should see a lot of options.
 * Locate the heading that reads "STORAGE" and click the "SQL" option.
 * Click "CREATE INSTANCE" near the top of the page.
