@@ -10,8 +10,8 @@
 
 ### Tables, Fields, and Relationships
 >> users (One)
-    >>> Columns - user_id (PK), email, first_name, last_name, fav_tickers (FK: ticker_id)
+    >> Columns - user_id (PK), email, first_name, last_name, fav_tickers (FK: ticker_id)
 >> tickers (Many)
-    >>> Columns - ticker_id (FK), added_by (FK: user_id), ticker_name, ticker_description
+    >> Columns - ticker_id (FK), added_by (FK: user_id), ticker_name, ticker_description
 >> watch_list (Join Table)
-    >>> Columns - watchlist_user_id, watchlist_ticker_id
+    >> Columns - watchlist_user_id, watchlist_ticker_id
