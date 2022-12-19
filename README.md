@@ -48,3 +48,5 @@ Navigate to the "CONNECTIONS" tab.
 * Default Schema: We'll use the name of the database we created earlier, "admin"
 * Click "Test Connection". It should have been successful
 * Click "Ok" to save the connection The new connection should be listed under "MySQL Connections", double click it to connect to the database
+
+Test DB setup by running a 'select *' query and making sure the data shows up.
