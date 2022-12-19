@@ -9,9 +9,9 @@
 >> The primary data needed for this project will be Users, Watch Lists (stock tickers) and live market data (outsourced market API, TBD). Within the Watch List table there must CRUD ability.
 
 ### Tables, Fields, and Relationships
->> users (One)
-    >> Columns - user_id (PK), email, first_name, last_name, fav_tickers (FK: ticker_id)
->> tickers (Many)
-    >> Columns - ticker_id (FK), added_by (FK: user_id), ticker_name, ticker_description
->> watch_list (Join Table)
-    >> Columns - watchlist_user_id, watchlist_ticker_id
+* users (One)
+    * Columns - user_id (PK), email, first_name, last_name, fav_tickers (FK: ticker_id)
+* tickers (Many)
+    * Columns - ticker_id (FK), added_by (FK: user_id), ticker_name, ticker_description
+* watch_list (Join Table)
+    * Columns - watchlist_user_id, watchlist_ticker_id
