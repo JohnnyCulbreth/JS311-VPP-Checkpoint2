@@ -50,10 +50,3 @@ Navigate to the "CONNECTIONS" tab.
 * Click "Ok" to save the connection The new connection should be listed under "MySQL Connections", double click it to connect to the database
 
 Test DB setup by running a 'select *' query and making sure the data shows up.
-
-REMAINING STEPS
-
-Review the steps to create a DB, connect to it, seed it with data and write them down in the README.md.
-Write the SQL Commands that would create the tables in files named after the data like: userSeedData.sql, carSeedData.sql, productSeedData.sql, etc...
-Store those files in the repo
-Upload the repo's link to the Checkpoint-2 Assignment
