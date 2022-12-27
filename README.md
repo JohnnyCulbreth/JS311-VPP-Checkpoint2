@@ -50,5 +50,3 @@ Navigate to the "CONNECTIONS" tab.
 * Click "Ok" to save the connection The new connection should be listed under "MySQL Connections", double click it to connect to the database
 
 Test DB setup by running a 'select *' query and making sure the data shows up.
-
-> AWS DB - Make sure Inbound Security Group is set to current IP.
